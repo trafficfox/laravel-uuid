@@ -1,5 +1,5 @@
 {
-	"name" : "webpatser/laravel-uuid",
+	"name" : "trafficfox/laravel-uuid",
 	"description" : "Laravel package to generate and to validate a universally unique identifier (UUID) according to the RFC 4122 standard. Support for version 1, 3, 4 and 5 UUIDs are built-in.",
 	"authors" : [{
 			"name" : "Christoph Kempen",
